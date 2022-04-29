@@ -24,4 +24,3 @@ function binarySearch(arr: number[], findingElement: number): number {
 
 const result: number = binarySearch(sourceArray, findingNumber)
 
-console.log('Finding number:', findingNumber, 'Founded index:', result, 'Founded element:', sourceArray[result])
